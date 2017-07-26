@@ -24,11 +24,11 @@ p {
 	font-size: 14px;
 }
 .header {
-	background-image: url("https://raw.githubusercontent.com/Emanon305/Broadway_Design/master/resources/the-flatiron-building.png");
+	background-image: url("../the-flatiron-building.png");	
 	color: white;
 }
 #designed {
-	background-image: url("https://raw.githubusercontent.com/Emanon305/Broadway_Design/master/resources/the-flatiron-building.png");
+	background-image: url("../the-flatiron-building.png");
 	color: white;
 }
 .footer {
