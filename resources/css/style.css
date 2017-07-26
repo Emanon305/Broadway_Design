@@ -1,0 +1,42 @@
+* {
+	font-family: Helvetica;
+}
+body {
+	text-align: center;
+}
+a {
+	font-size: 18px;
+	color: white;
+}
+h1 {
+	font-size: 70px;
+	font-weight: bold;
+}
+h2 {
+	font-size: 32px;
+	font-weight: bold;
+}
+h3 {
+	font-size: 23px;
+	font-weight: bold;
+}
+p {
+	font-size: 14px;
+}
+.header {
+	background-image: url("https://raw.githubusercontent.com/Emanon305/Broadway_Design/master/resources/the-flatiron-building.png");
+	color: white;
+}
+#designed {
+	background-image: url("https://raw.githubusercontent.com/Emanon305/Broadway_Design/master/resources/the-flatiron-building.png");
+	color: white;
+}
+.footer {
+	font-size: 18px;
+	color: white;
+	background-color: dimgray;
+	text-align: left;
+}
+#copyright {
+	font-size: 11px;
+}
